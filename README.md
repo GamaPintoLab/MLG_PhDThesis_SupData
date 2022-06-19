@@ -1,6 +1,7 @@
 # MLG_PhDThesis_SupData
 
 CHAPTER 2
+
 **Supplementary Data S2.1** Descriptive summary of relevant parameters at each step of the BioInt-U framework
 
 **Supplementary Data S2.2** Summary of key words used for the functional classification of BioInt units
@@ -13,6 +14,7 @@ CHAPTER 2
 
 
 CHAPTER 3
+
 **Supplementary Data S3:**
 **Sheet.1** List of ALS and SMA seeds
 
@@ -31,6 +33,7 @@ CHAPTER 3
 **Sheet 8** Composition of clusters
 
 CHAPTER 4
+
 **Supplementary Data S4.1** Sequencing library statistics
 
 **Supplementary Data S4.2** List of RIP-Seq enriched transcripts 
@@ -46,6 +49,7 @@ CHAPTER 4
 **Supplementary Data S4.7** Functional Module annotation 
 
 CHAPTER 5
+
 **Supplementary Data S5.1** Drosophila TS BioInt units
 
 **Supplementary Data S4.2** Selected Human and Drosophila BioInt units 
